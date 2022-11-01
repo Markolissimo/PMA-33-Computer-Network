@@ -1,0 +1,12 @@
+{
+  "result": [
+    {
+      "name":"file",
+      "type":"FILE"
+    },
+    {
+      "name":"http",
+      "type":"HTTP"
+    }
+  ]
+}

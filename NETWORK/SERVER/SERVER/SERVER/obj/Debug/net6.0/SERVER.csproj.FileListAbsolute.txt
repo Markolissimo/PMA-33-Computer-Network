@@ -1,0 +1,15 @@
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\bin\Debug\net6.0\SERVER.exe
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\bin\Debug\net6.0\SERVER.deps.json
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\bin\Debug\net6.0\SERVER.runtimeconfig.json
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\bin\Debug\net6.0\SERVER.dll
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\bin\Debug\net6.0\SERVER.pdb
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\obj\Debug\net6.0\SERVER.csproj.AssemblyReference.cache
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\obj\Debug\net6.0\SERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\obj\Debug\net6.0\SERVER.AssemblyInfoInputs.cache
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\obj\Debug\net6.0\SERVER.AssemblyInfo.cs
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\obj\Debug\net6.0\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\obj\Debug\net6.0\SERVER.dll
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\obj\Debug\net6.0\refint\SERVER.dll
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\obj\Debug\net6.0\SERVER.pdb
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\obj\Debug\net6.0\SERVER.genruntimeconfig.cache
+C:\Users\vsbal\Desktop\NETWORK\SERVER\SERVER\SERVER\obj\Debug\net6.0\ref\SERVER.dll

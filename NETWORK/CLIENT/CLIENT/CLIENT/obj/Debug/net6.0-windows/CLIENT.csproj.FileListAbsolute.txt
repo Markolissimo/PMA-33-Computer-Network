@@ -1,0 +1,17 @@
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\CLIENT.csproj.AssemblyReference.cache
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\CLIENT.Form1.resources
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\CLIENT.csproj.GenerateResource.cache
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\CLIENT.AssemblyInfoInputs.cache
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\CLIENT.AssemblyInfo.cs
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\bin\Debug\net6.0-windows\CLIENT.exe
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\bin\Debug\net6.0-windows\CLIENT.deps.json
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\bin\Debug\net6.0-windows\CLIENT.runtimeconfig.json
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\bin\Debug\net6.0-windows\CLIENT.dll
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\bin\Debug\net6.0-windows\CLIENT.pdb
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\CLIENT.dll
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\refint\CLIENT.dll
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\CLIENT.pdb
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\CLIENT.genruntimeconfig.cache
+C:\Users\vsbal\Desktop\NETWORK\CLIENT\CLIENT\CLIENT\obj\Debug\net6.0-windows\ref\CLIENT.dll
